@@ -1,6 +1,4 @@
-# Hi there 👋, I'm Rakshit Jain
-
-## Software Engineer | Software Engineer | SaaS Builder
+## Platform Engineer | Software Engineer | SaaS Builder
 
 I'm a Platform Engineer, building and maintaining production-scale video analytics infrastructure deployed on Kubernetes for enterprise customers.
 
